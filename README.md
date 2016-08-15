@@ -1,0 +1,2 @@
+# ai-asisstant
+scholl project
